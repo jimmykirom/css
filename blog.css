@@ -48,7 +48,7 @@ ul#secondary-menu ul li{margin:0 !important;padding:8px 0 8px 30px !important;wi
 ul#secondary-menu ul li a{padding:0 !important}
 ul#secondary-menu li:hover ul ul,ul#secondary-menu li.sfHover ul ul{top:-8px !important;left:180px !important;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}
 ul#secondary-menu ul li.even-item{border-left:1px solid #f1f1f1}
-.nav ul{position:absolute;top:-999em;background-position:bottom;background-repeat:no-repeat;z-index:10}
+.nav ul{position:absolute;top:-999em;background-position:bottom;background-repeat:no-repeat;z-index:10;font-family:&quot;Arial Black&quot;}
 .nav li{float:left;position:relative}
 .nav a{display:block;float:left}
 .nav li:hover ul,ul.nav li.sfHover ul{left:0;top:50px}
