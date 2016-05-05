@@ -64,7 +64,7 @@ ul#secondary-menu ul li.even-item{border-left:1px solid #f1f1f1}
 #bottom-area-bg{background:url(https://lh5.googleusercontent.com/-lE6S4nzc8rE/UjFfQ1lYHsI/AAAAAAAACzc/AMW7Xh-0akE/s9/bottom-area-bg.png) repeat-x bottom left}
 #category-inner{padding:30px 0 20px;font-family:'Kreon',Arial,sans-serif}
 h1.category-title{color:#577a79;font-size:33px;text-shadow:1px 1px 0 rgba(255,255,255,0.4)}
-#category-inner p.description,#category-inner p.meta-info{font-size:18px;color:#fff;text-shadow:1px 1px 0 rgba(0,0,0,0.2)}
+#category-inner p.description,#category-inner p.meta-info{font-size:18px;color:#000;text-shadow:1px 1px 0 rgba(0,0,0,0.2)}
 #category-inner p.meta-info a{color:#fff}
 #comments h4,h3.offer-title,h3#comments,h3#reply-title{background:url(https://lh5.googleusercontent.com/-FdkcPVrlS8E/UjFfYzCsrdI/AAAAAAAAC2I/ZIwQ9u2IShI/s350/offer-title-bg.png) no-repeat right bottom;color:#434343;display:block;font-size:14px;text-transform:uppercase;text-shadow:1px 1px 1px #fff;padding-right:6px;text-decoration:none;height:43px;line-height:41px;position:absolute;padding-bottom:0}
 #comments h4 span,h3.offer-title span,h3#comments span,h3#reply-title span{background:url(https://lh5.googleusercontent.com/-FdkcPVrlS8E/UjFfYzCsrdI/AAAAAAAAC2I/ZIwQ9u2IShI/s350/offer-title-bg.png) no-repeat;display:block;padding-left:20px;height:43px;padding-right:16px}
