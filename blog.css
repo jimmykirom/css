@@ -36,7 +36,7 @@ ul#top-menu li:hover ul ul,ul#top-menu li.sfHover ul ul{-moz-border-radius:10px;
 #menu-content { position: relative; }
 #menu-shadow { position: absolute; top: 0; left: 0; background: url(https://lh5.googleusercontent.com/-bjexbvUHtoo/UjFfcQpyUHI/AAAAAAAAC3I/1r85d151bPE/s960/secondary-menu-bg.png) no-repeat; height: 4px; width: 960px; z-index: 30; }
 ul#secondary-menu li{font-family:'Kreon',Arial,sans-serif}
-ul#secondary-menu a{font-size:16px;color:#434343;text-decoration:none;padding:18px 9px 15px}
+ul#secondary-menu a{font-size:24px;color:#434343;text-decoration:none;padding:18px 9px 15px}
 ul#secondary-menu a:hover{color:#7cb7b5}
 ul#secondary-menu li{border-left:1px solid transparent;border-right:1px solid transparent}
 ul#secondary-menu li ul li{border:none}
