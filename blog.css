@@ -7,7 +7,7 @@ a:hover {color:#7CB7B5}
 .clearfix:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
 p {line-height: 24px;padding-bottom: 10px;}
 #color-stripes{background:url(https://lh4.googleusercontent.com/-r9O2AaSvgKw/UjFfR2XrzYI/AAAAAAAACz0/XkShhR2JVQs/s588/color-stripes.png) repeat-x scroll 0 0 transparent;border-bottom:1px solid #FFF;height:4px}
-.container{margin:0 auto;position:relative;text-align:left;width:1600px}
+.container{margin:0 auto;position:relative;text-align:left;width:1330px}
 #header-wrapper{background:url(https://lh4.googleusercontent.com/-20ri5ppk_CY/UjFfWBgSEGI/AAAAAAAAC1A/-Nil_KOF1LE/s29/header-bg.png) repeat-x scroll 0 0 transparent;padding-top:38px}
 #header{ float: left; margin-bottom: 18px;}
 #header,#header a { color: #848968 }
