@@ -116,7 +116,7 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 #main-content{background:url(https://lh6.googleusercontent.com/-e_2NnfhJ0hs/UjFfXBtIYEI/AAAAAAAAC1g/ZW3ruUT_i8s/s960/main-content.png) no-repeat scroll 0 0 transparent;padding-top:4px}
 #main-content-bg{background:url(https://lh6.googleusercontent.com/-6wKxYuP4d6k/UjFfWaNHxPI/AAAAAAAAC1Q/yU_NhmPC_Cs/s273/main-content-bg.png) repeat-y scroll 692px 0 transparent}
 #main-content-bottom-bg{background:url(https://lh5.googleusercontent.com/-y5ZsFLSf8OI/UjFfWzKIEGI/AAAAAAAAC1U/VkFdKFrL8gM/s273/main-content-bottom-bg.png) no-repeat scroll 692px bottom transparent}
-#left-area{float:right;position:relative;width:692px}
+#left-area{float:left;position:relative;width:0px}
 #recent-products{font-weight:normal;left:40%;position:absolute;top:-22px}
 #main-products{margin-bottom:12px;padding-top:43px}
 #kolom-box{padding:0px 10px 10px 10px;border:1px dotted $bordercolor;}
