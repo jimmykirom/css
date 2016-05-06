@@ -97,9 +97,9 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 #featured a.readmore{float:right;display:block;padding-right:17px;background:url(https://lh6.googleusercontent.com/-JhUipI4KOt0/UjFfY-ihtsI/AAAAAAAAC2A/TwZHHshaTYk/s300/more-info.png) no-repeat bottom right;font-size:12px;color:#434343;text-shadow:none}
 #featured a.readmore span{display:block;padding-left:17px;height:32px;line-height:32px;background:url(https://lh6.googleusercontent.com/-JhUipI4KOt0/UjFfY-ihtsI/AAAAAAAAC2A/TwZHHshaTYk/s300/more-info.png) no-repeat}
 #featured a.readmore:hover{color:#111}
-#featured a#left-arrow,#featured a#right-arrow{display:block;width:28px;height:70px;position:absolute;top:126px;text-indent:-9999px;z-index:100}
+/*#featured a#left-arrow,#featured a#right-arrow{display:block;width:28px;height:70px;position:absolute;top:126px;text-indent:-9999px;z-index:100}
 #featured a#left-arrow{background:url(https://lh3.googleusercontent.com/-LX0InVzqx2U/UjFfWJ3tRuI/AAAAAAAAC1E/pUua40Dri4U/s70/left-arrow.png) no-repeat;left:0}
-#featured a#right-arrow{background:url(https://lh6.googleusercontent.com/-c5bZ7reUg80/UjFfa_5FTiI/AAAAAAAAC2s/OzEfXfmF8H0/s70/right-arrow.png) no-repeat;right:0}
+*/#featured a#right-arrow{background:url(https://lh6.googleusercontent.com/-c5bZ7reUg80/UjFfa_5FTiI/AAAAAAAAC2s/OzEfXfmF8H0/s70/right-arrow.png) no-repeat;right:0}
 #featured #controllers{text-align:center}
 #featured #controllers a{display:inline-block;background:url(https://lh4.googleusercontent.com/-jXGzr9jjqV8/UjFfUmfsoGI/AAAAAAAAC0g/R635jlWphnk/s11/featured-controller.png) no-repeat;margin-right:4px;text-indent:-9999px;width:11px;height:11px}
 #featured #controllers a.activeSlide{background:url(https://lh4.googleusercontent.com/-mLx8TL0Npms/UjFfUlDUGlI/AAAAAAAAC0k/b_EfABn1fLk/s11/featured-controller-active.png) no-repeat}
