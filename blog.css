@@ -119,15 +119,6 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 /*#left-area{display: inline-block;float:left;position:relative;width:692px}*/
 #recent-products{font-weight:normal;left:40%;position:absolute;top:-22px}
 #main-products{margin-bottom:12px;padding-top:43px}
-#bottom {width:588px;clear:both;margin:0 auto;float:left;padding:10px 0;color:#333;background:#ffffff;border-top:#ffffff;border-bottom:#ffffff;}
-#bottom a:link {color:#006699;text-decoration:none;}
-#bottom a:hover {color:#c06000;text-decoration:underline;}
-#bottom a:visited {color:#808080;text-decoration:none;}
-#bottom h2 {color:#000000;padding:10px 0 2px 0;margin:0 0 10px 0;border-bottom:1px dotted #333;font-size:11px;font-weight:bold;line-height:1.4em;text-transform:uppercase;}
-#bottom ul {padding:0;margin:0;color:#333;}
-#bottom ul li {list-style-type:none;border-bottom:1px dotted #333;background: url("http://lh3.ggpht.com/_w3vbLlHM5kg/SbaWQmXKL8I/AAAAAAAAAEc/W7TmnpAs0x4/s144/Arrobblue.png") no-repeat 0px .17em; padding-left:17px;margin-top:2px;}
-#kiri {display: inline-block;width:205px;float:left;padding-left:15px;}
-#kanan {display: inline-block;width:383px;float:right;padding-right:15px;}
 .main-product blockquote  { margin: 1.5em; padding: 1em; color: #666666; background: #e6e6e6; font-style: italic; border: 1px solid #dcdcdc; }
 .main-product{padding: 0 40px 20px 0}
 .main-product h1{font-weight:normal; font-size: 24px; padding-bottom: 14px; padding-left: 2px;}
@@ -146,7 +137,7 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 .post img { max-width: 100% }
 .thumb{display:block;width:113px;height:96px;}
 .post blockquote { font: italic 13px georgia; margin: 1em 20px;}
-#sidebar-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;display: inline-block;float:left;position:relative;width:268px}
+#sidebar-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;display: inline-block;float:left;position:relative;width:205px}
 .sidebar .widget{background:url(https://lh6.googleusercontent.com/-5Wu6gnYYmeM/UjFffLtgvgI/AAAAAAAAC4E/lSKybXLyVas/s273/widget-bg.png) no-repeat scroll right bottom transparent;padding:23px 25px 30px 0}
 #menuSidebar1-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;float:left;position:relative;width:268px}
 .menuSidebar1 .widget{background:url(https://lh6.googleusercontent.com/-5Wu6gnYYmeM/UjFffLtgvgI/AAAAAAAAC4E/lSKybXLyVas/s273/widget-bg.png) no-repeat scroll left bottom transparent;padding:23px 25px 30px 0}
