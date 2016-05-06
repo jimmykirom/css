@@ -119,6 +119,7 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 #left-area{float:left;position:relative;width:692px}
 #recent-products{font-weight:normal;left:40%;position:absolute;top:-22px}
 #main-products{margin-bottom:12px;padding-top:43px}
+#kolom-box{padding:0px 10px 10px 10px;border:1px dotted $bordercolor;} 
 .main-product blockquote  { margin: 1.5em; padding: 1em; color: #666666; background: #e6e6e6; font-style: italic; border: 1px solid #dcdcdc; }
 .main-product{padding: 0 40px 20px 0}
 .main-product h1{font-weight:normal; font-size: 24px; padding-bottom: 14px; padding-left: 2px;}
