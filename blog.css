@@ -120,6 +120,12 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 #recent-products{font-weight:normal;left:40%;position:absolute;top:-22px}
 #main-products{margin-bottom:12px;padding-top:43px}
 #bottom {width:588px;clear:both;margin:0 auto;float:left;padding:10px 0;color:#333;background:#ffffff;border-top:#ffffff;border-bottom:#ffffff;}
+#bottom a:link {color:#006699;text-decoration:none;}
+#bottom a:hover {color:#c06000;text-decoration:underline;}
+#bottom a:visited {color:#808080;text-decoration:none;}
+#bottom h2 {color:#000000;padding:10px 0 2px 0;margin:0 0 10px 0;border-bottom:1px dotted #333;font-size:11px;font-weight:bold;line-height:1.4em;text-transform:uppercase;}
+#bottom ul {padding:0;margin:0;color:#333;}
+#bottom ul li {list-style-type:none;border-bottom:1px dotted #333;background: url("http://lh3.ggpht.com/_w3vbLlHM5kg/SbaWQmXKL8I/AAAAAAAAAEc/W7TmnpAs0x4/s144/Arrobblue.png") no-repeat 0px .17em; padding-left:17px;margin-top:2px;}
 #kiri {display: inline-block;width:205px;float:left;padding-left:15px;}
 #kanan {display: inline-block;width:383px;float:right;padding-right:15px;}
 .main-product blockquote  { margin: 1.5em; padding: 1em; color: #666666; background: #e6e6e6; font-style: italic; border: 1px solid #dcdcdc; }
