@@ -114,11 +114,11 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 .featured-price span.currency_sign{color:#fff;font-size:12px;top:1px;left:133px;width:17px}
 
 #main-content{background:url(https://lh6.googleusercontent.com/-e_2NnfhJ0hs/UjFfXBtIYEI/AAAAAAAAC1g/ZW3ruUT_i8s/s960/main-content.png) no-repeat scroll 0 0 transparent;padding-top:4px}
-#main-content-bg{background:url(https://lh6.googleusercontent.com/-6wKxYuP4d6k/UjFfWaNHxPI/AAAAAAAAC1Q/yU_NhmPC_Cs/s273/main-content-bg.png) repeat-y scroll 692px 0 transparent}
-#main-content-bottom-bg{background:url(https://lh5.googleusercontent.com/-y5ZsFLSf8OI/UjFfWzKIEGI/AAAAAAAAC1U/VkFdKFrL8gM/s273/main-content-bottom-bg.png) no-repeat scroll 692px bottom transparent}
+#main-content-bg{repeat-y scroll 692px 0 transparent}
+#main-content-bottom-bg{no-repeat scroll 692px bottom transparent}
 #recent-products{font-weight:normal;left:40%;position:absolute;top:-22px}
 #main-products{margin-bottom:12px;padding-top:43px}
-#left-area{display: inline-block;float:right;margin:0px auto;position:relative;width:692px}
+#left-area{display: inline-block;float:right;margin:0px auto;position:relative;}
 .left-area{width: 70%; float: right; margin:0; text-align: left;}
 .main-product blockquote  { margin: 1.5em; padding: 1em; color: #666666; background: #e6e6e6; font-style: italic; border: 1px solid #dcdcdc; }
 .main-product{padding: 0 40px 20px 0}
@@ -138,7 +138,7 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 .post img { max-width: 100% }
 .thumb{display:block;width:113px;height:96px;}
 .post blockquote { font: italic 13px georgia; margin: 1em 20px;}
-#sidebar-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;display: inline-block;float:left;position:relative;width:205px}
+#sidebar-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;display: inline-block;float:left;position:relative;width:395px}
 .sidebar-wrapper{width: 30%; float: left; margin:0; text-align: left;}
 .sidebar .widget{background:url(https://lh6.googleusercontent.com/-5Wu6gnYYmeM/UjFffLtgvgI/AAAAAAAAC4E/lSKybXLyVas/s273/widget-bg.png) no-repeat scroll right bottom transparent;padding:25px 25px 30px 0}
 #menuSidebar1-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;float:left;position:relative;width:268px}
