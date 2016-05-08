@@ -43,7 +43,7 @@ h1.category-title{color:#577a79;font-size:33px;text-shadow:1px 1px 0 rgba(255,25
 #comments h3 {margin-bottom:15px;font-size:18px;}
 .comment_avatar_wrap{width:42px;height:42px;border: 1px solid #C4C4C4;border-top-color: #E4E4E4;border-left-color: #E4E4E4;background:#fcfcfc;padding:4px;border-radius: 2px;text-align:center;margin-bottom:20px;}
 #comments .avatar-image-container {float: left;margin: 0 10px 0 0;width: 42px;height: 42px;max-width:42px;max-height:42px;padding: 0;margin-bottom:10px;}
-#comments .avatar-image-container img {width: 42px;height: 42px;max-width: 42px;max-height: 42px;background:url(http://2.bp.blogspot.com/-fjaZBtfvzac/UN1mw2tUamI/AAAAAAAADkc/XdKqt8hWZ6w/s1600/anon.jpg) no-repeat;}
+#comments .avatar-image-container img {width: 42px;height: 42px;max-width: 42px;max-height: 42px;background:url(https://2.bp.blogspot.com/-fjaZBtfvzac/UN1mw2tUamI/AAAAAAAADkc/XdKqt8hWZ6w/s1600/anon.jpg) no-repeat;}
 .comment_name a {font-weight: bold;padding: 5px 0 0 0;font-size: 13px;text-decoration: none;}
 .comment_admin .comment_name  {font-weight: bold;padding: 10px;font-size: 13px;text-decoration: none;background:#eee;}
 .comment_admin .comment_date  {font-weight: normal;font-size:11px;}
@@ -73,13 +73,13 @@ h1.category-title{color:#577a79;font-size:33px;text-shadow:1px 1px 0 rgba(255,25
 .comment_youtube {max-width:100%!important;width:400px;height:225px;display:block;margin:auto}
 .comment_img {max-width:100%!important;}
 .deleted-comment {padding: 10px 10px 10px 10px;display: block;color: #CCC;}
-.comment_arrow {display: block;width: 9px;height: 18px;background: url(http://3.bp.blogspot.com/-NONrBLhghFk/To0nNB1LmkI/AAAAAAAAAI4/CAuzDfYiCiU/s1600/comment-arrow.gif) no-repeat;position: absolute;margin-left: -19px;}
+.comment_arrow {display: block;width: 9px;height: 18px;background: url(https://3.bp.blogspot.com/-NONrBLhghFk/To0nNB1LmkI/AAAAAAAAAI4/CAuzDfYiCiU/s1600/comment-arrow.gif) no-repeat;position: absolute;margin-left: -19px;}
 .comment_header{width:50px}
 #respond {overflow: hidden;padding-left: 10px;clear: both;}
-.comment_avatar img{width:42px;height:42px;background:url(http://2.bp.blogspot.com/-fjaZBtfvzac/UN1mw2tUamI/AAAAAAAADkc/XdKqt8hWZ6w/s1600/anon.jpg) no-repeat}
+.comment_avatar img{width:42px;height:42px;background:url(https://2.bp.blogspot.com/-fjaZBtfvzac/UN1mw2tUamI/AAAAAAAADkc/XdKqt8hWZ6w/s1600/anon.jpg) no-repeat}
 .comment-delete img{float:right;margin-left:15px;margin-top:3px;margin-right:10px}
 .comment_author_flag {display:none}
-.comment_admin .comment_author_flag {display:inline;background:url(http://4.bp.blogspot.com/-lABM2Z7_HVs/Ui_XAxhHY6I/AAAAAAAAFXc/wbQNB2SkcIQ/s1600/author.png)no-repeat;font-size:13px;font-weight:normal;padding:2px 6px;right:-23px;margin-top:-23px;color:#fff;border-radius:4px;text-transform:uppercase;position:absolute;width:36px;height:36px;}
+.comment_admin .comment_author_flag {display:inline;background:url(https://4.bp.blogspot.com/-lABM2Z7_HVs/Ui_XAxhHY6I/AAAAAAAAFXc/wbQNB2SkcIQ/s1600/author.png)no-repeat;font-size:13px;font-weight:normal;padding:2px 6px;right:-23px;margin-top:-23px;color:#fff;border-radius:4px;text-transform:uppercase;position:absolute;width:36px;height:36px;}
 iframe{border:none;overflow:hidden}
 #comments h4 span,h3.offer-title span,h3#comments span,h3#reply-title span{background:url(https://lh5.googleusercontent.com/-FdkcPVrlS8E/UjFfYzCsrdI/AAAAAAAAC2I/ZIwQ9u2IShI/s350/offer-title-bg.png) no-repeat;display:block;padding-left:20px;height:43px;padding-right:16px}
 #special-offers{font-weight:normal;position:absolute;left:43%;top:-22px}
