@@ -58,7 +58,7 @@ h1.category-title{color:#577a79;font-size:33px;text-shadow:1px 1px 0 rgba(255,25
 .special-item img{display:block;margin:0 auto}
 #featured{height:340px}
 #slides{height:200px}
-.slide{padding:80px 0 10px 82px}
+.slide{padding:0 0 0 82px}
 .js .slide{display:none}
 .featured-image{float:left;width:380px;margin-right:57px;position:relative;margin-top:-37px}
 .featured-description{width:353px;float:left;font-size:14px;color:#fff;text-shadow:1px 1px 1px rgba(0,0,0,0.1)}
