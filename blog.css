@@ -90,8 +90,7 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 #main-content-bottom-bg{no-repeat scroll 692px bottom transparent}
 #recent-products{font-weight:normal;left:40%;position:absolute;top:-22px}
 #main-products{margin-bottom:12px;padding-top:43px}
-#left-area{display: inline-block;float:right;margin:0px auto;position:relative;width:692px}
-.left-area{width: 70%; float: right; margin:0; text-align: left;}
+#left-area{display: inline-block;float:right;margin:0px auto;position:relative;width: 70%;}
 .main-product blockquote  { margin: 1.5em; padding: 1em; color: #666666; background: #e6e6e6; font-style: italic; border: 1px solid #dcdcdc; }
 .main-product{padding: 0 40px 20px 0}
 .main-product h1{font-weight:normal; font-size: 24px; padding-bottom: 14px; padding-left: 2px;}
@@ -110,7 +109,7 @@ h2.featured-title a:hover{color:#3c5958;text-decoration:none}
 .post img { max-width: 100% }
 .thumb{display:block;width:113px;height:96px;}
 .post blockquote { font: italic 13px georgia; margin: 1em 20px;}
-#sidebar-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;display: inline-block;float:left;position:relative;width:205px}
+#sidebar-wrapper{no-repeat scroll 0 -1px transparent;display: inline-block;float:left;position:relative;margin: 0;text-align: left;}
 .sidebar-wrapper{width: 30%; float: left; margin:0; text-align: left;}
 .sidebar .widget{background:url(https://lh6.googleusercontent.com/-5Wu6gnYYmeM/UjFffLtgvgI/AAAAAAAAC4E/lSKybXLyVas/s273/widget-bg.png) no-repeat scroll right bottom transparent;padding:25px 25px 30px 0}
 #menuSidebar1-wrapper{background:url(https://lh6.googleusercontent.com/-VQsYpCo-JKw/UjFfdJkc5yI/AAAAAAAAC3c/_cctlqK71YE/s53/sidebar-bg.png) no-repeat scroll 0 -1px transparent;float:left;position:relative;width:268px}
