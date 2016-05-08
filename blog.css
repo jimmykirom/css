@@ -10,11 +10,12 @@ p {line-height: 24px;padding-bottom: 10px;}
 #color-stripes{background:url(https://lh4.googleusercontent.com/-r9O2AaSvgKw/UjFfR2XrzYI/AAAAAAAACz0/XkShhR2JVQs/s588/color-stripes.png) repeat-x scroll 0 0 transparent;border-bottom:1px solid #FFF;height:4px}
 .container{margin:0 auto;position:relative;text-align:left;width:100%;}
 #header-wrapper{repeat-x scroll 0 0 transparent;}
-#header{ float: left; margin-bottom: 18px;}
+#header{ float: left; margin-bottom: 18px; width: 100%;}
 #header,#header a { color: #848968 }
 #header h1 {line-height:43px;font-size: 43px; font-weight: normal; font-family: 'Cookie', cursive;}
-#header-img {text-align:center; width: 100px; height: 50px;right: 50%;}
+#header img {width: 100px; height: 50px;}
 #header .descriptionwrapper{color:#000;background:url(https://lh3.googleusercontent.com/-6F_m49C5AkM/UjFfd9bKxlI/AAAAAAAAC3s/qJIETtYBQqg/s28/slogan-bg.png) no-repeat scroll 0 7px transparent;color:#000;font-family:Georgia,serif;font-size:12px;font-style:italic;padding-left:13px;padding-top:9px;margin-left:15px}
+.header img {margin: auto; right: 60%;}
 .titlewrapper,.descriptionwrapper{display:inline-block}
 #search-form{float:right;background:url(https://lh5.googleusercontent.com/--rw94CqkMfU/UjFfbAIn44I/AAAAAAAAC24/MMVTFyh4AAk/s127/search-bg.png) no-repeat;width:127px;height:26px;margin-top:7px}
 #search-form #searchinput{background:none;border:none;float:left;margin:4px 7px 0 4px;width:84px;padding-left:9px;font-size:11px;color:#b5b5b5;font-family:Georgia,serif;text-shadow:1px 1px 1px #fff;font-style:italic}
