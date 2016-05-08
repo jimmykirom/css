@@ -13,7 +13,7 @@ p {line-height: 24px;padding-bottom: 10px;}
 #header{ float: left; margin-bottom: 18px;}
 #header,#header a { color: #848968 }
 #header h1 {line-height:43px;font-size: 43px; font-weight: normal; font-family: 'Cookie', cursive;}
-#header img {text-align:center; width: 100px; height: 50px;}
+#header img {text-align:center; width: 100px; height: 50px;right: 50%;}
 #header .descriptionwrapper{color:#000;background:url(https://lh3.googleusercontent.com/-6F_m49C5AkM/UjFfd9bKxlI/AAAAAAAAC3s/qJIETtYBQqg/s28/slogan-bg.png) no-repeat scroll 0 7px transparent;color:#000;font-family:Georgia,serif;font-size:12px;font-style:italic;padding-left:13px;padding-top:9px;margin-left:15px}
 .titlewrapper,.descriptionwrapper{display:inline-block}
 #search-form{float:right;background:url(https://lh5.googleusercontent.com/--rw94CqkMfU/UjFfbAIn44I/AAAAAAAAC24/MMVTFyh4AAk/s127/search-bg.png) no-repeat;width:127px;height:26px;margin-top:7px}
